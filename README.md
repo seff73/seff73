@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joel
-- 👀 I’m interested in all about world's programing
+- 👀 I’m interested in all about Programming's World
 - 🌱 I’m currently learning Big Data, Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on your project
 - 📫 seff73@gmail.com
